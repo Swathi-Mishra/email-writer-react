@@ -31,5 +31,6 @@
   },
   "homepage": "https://Swathi-Mishra.github.io/email-writer-sb",
   "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+  "deploy": "gh-pages -d dist" 
+  
 }
