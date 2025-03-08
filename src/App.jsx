@@ -15,7 +15,7 @@ const handleSumbit = async () => {
     setLoading(true);
     setError('');
     try {
-      const response = await axios.post(`${process.env.REACT_APP_BACKEND_URL}/api/email/generate`,{
+      const response = await axios.post('https://email-writer-sb-04ng.onrender.com/api/email/generate',{
         emailContent,
         tone
       });
