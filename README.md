@@ -1,5 +1,7 @@
 # AI Email Reply Generator
 
+🔗 **Live Demo:** [GitHub Pages Link](https://Swathi-Mishra.github.io/email-writer-react)
+
 This project is divided into two parts:
 - **Backend**: `email-writer-sb` (Spring Boot)
 - **Frontend**: `email-writer-react` (React)
